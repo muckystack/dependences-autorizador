@@ -31,6 +31,7 @@
     "@ng-select/ng-select": "^9.0.2",
     "@nghacks/quantity-input": "^1.0.1",
     "@popperjs/core": "^2.10.2",
+    "@stomp/stompjs": "^7.0.0",
     "@types/file-saver": "^2.0.5",
     "@types/googlemaps": "^3.43.3",
     "angular-svg-icon": "^13.0.0",
@@ -58,6 +59,7 @@
     "ngx-mat-select-search": "^4.2.1",
     "ngx-socket-io": "^4.5.1",
     "rxjs": "~7.5.0",
+    "sockjs-client": "^1.6.1",
     "sweetalert2": "^11.4.8",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
